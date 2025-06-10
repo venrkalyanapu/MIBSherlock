@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TegRoMcN5BM=",
+  "success": true,
+  "projectFilePath": "H:\\TFS\\MIBREQUESTS\\MIBREQUESTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venrkalyanapu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.0\\microsoft.netcore.app.host.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

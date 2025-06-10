@@ -1,0 +1,13 @@
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\MIBREQUESTS.exe
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\MIBREQUESTS.deps.json
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\MIBREQUESTS.runtimeconfig.json
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\MIBREQUESTS.runtimeconfig.dev.json
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\MIBREQUESTS.dll
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\MIBREQUESTS.pdb
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.GeneratedMSBuildEditorConfig.editorconfig
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.AssemblyInfoInputs.cache
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.AssemblyInfo.cs
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.csproj.CoreCompileInputs.cache
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.dll
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.pdb
+H:\TFS\MIBREQUESTS\obj\Release\netcoreapp3.1\MIBREQUESTS.genruntimeconfig.cache
