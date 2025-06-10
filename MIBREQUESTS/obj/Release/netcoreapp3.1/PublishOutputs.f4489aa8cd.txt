@@ -1,0 +1,5 @@
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\publish\MIBREQUESTS.exe
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\publish\MIBREQUESTS.dll
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\publish\MIBREQUESTS.deps.json
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\publish\MIBREQUESTS.runtimeconfig.json
+H:\TFS\MIBREQUESTS\bin\Release\netcoreapp3.1\publish\MIBREQUESTS.pdb
